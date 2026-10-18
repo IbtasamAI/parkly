@@ -1,0 +1,123 @@
+[
+  {
+    "id": 0,
+    "name": "The Avenues",
+    "area": "Al Rai",
+    "lat": 29.3031,
+    "lon": 47.9314,
+    "website": "https://the-avenues.com/kuwait/en/map",
+    "note": "12 districts; official map and app",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 1,
+    "name": "360 Mall",
+    "area": "Zahra",
+    "lat": 29.2684,
+    "lon": 48.0034,
+    "website": "https://www.360-kuwait.com/",
+    "note": "Original mall and expansion; see official site",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 2,
+    "name": "Marina Mall",
+    "area": "Salmiya",
+    "lat": 29.3428,
+    "lon": 48.065,
+    "website": "https://www.marinaworld.com.kw/",
+    "note": "Waterfront destination",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 3,
+    "name": "Al Kout Mall",
+    "area": "Fahaheel",
+    "lat": 29.0837,
+    "lon": 48.1407,
+    "website": "https://www.alkout.com.kw/",
+    "note": "Fahaheel waterfront",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 4,
+    "name": "Assima Mall",
+    "area": "Kuwait City",
+    "lat": 29.374,
+    "lon": 47.9862,
+    "website": "https://www.google.com/maps/search/?api=1&query=Assima+Mall+Kuwait",
+    "note": "City centre",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 5,
+    "name": "The Gate Mall",
+    "area": "Egaila",
+    "lat": 29.1805,
+    "lon": 48.1008,
+    "website": "https://www.google.com/maps/search/?api=1&query=The+Gate+Mall+Kuwait",
+    "note": "Egaila",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 6,
+    "name": "Al Hamra Mall",
+    "area": "Kuwait City",
+    "lat": 29.3795,
+    "lon": 47.9931,
+    "website": "https://www.google.com/maps/search/?api=1&query=Al+Hamra+Mall+Kuwait",
+    "note": "Sharq",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 7,
+    "name": "Al Khiran Mall",
+    "area": "Khiran",
+    "lat": 28.6797,
+    "lon": 48.3557,
+    "website": "https://www.google.com/maps/search/?api=1&query=Al+Khiran+Mall+Kuwait",
+    "note": "Khiran",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 8,
+    "name": "Salhiya Complex",
+    "area": "Kuwait City",
+    "lat": 29.3686,
+    "lon": 47.975,
+    "website": "https://www.google.com/maps/search/?api=1&query=Salhiya+Complex+Kuwait",
+    "note": "Salhiya",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 9,
+    "name": "Yaal Mall",
+    "area": "Mahboula",
+    "lat": 29.144,
+    "lon": 48.122,
+    "website": "https://www.google.com/maps/search/?api=1&query=Yaal+Mall+Kuwait",
+    "note": "Mahboula",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  },
+  {
+    "id": 10,
+    "name": "Jahra Mall",
+    "area": "Jahra",
+    "lat": 29.3492,
+    "lon": 47.6668,
+    "website": "https://www.google.com/maps/search/?api=1&query=Jahra+Mall+Kuwait",
+    "note": "Jahra",
+    "availability": "unknown",
+    "floorplan": "not-licensed"
+  }
+]

@@ -1,0 +1,6 @@
+/* Isolated V4-compatible AI controls — original V4 layout remains unchanged */
+.v17-ai-access{border:1px solid #a38bff88;border-radius:12px;padding:9px 12px;color:#f3efff;background:linear-gradient(125deg,#6046d2,#302765);font:700 12px inherit;cursor:pointer;transition:filter .2s ease,transform .2s ease;white-space:nowrap}
+.v17-ai-access:hover{filter:brightness(1.13);transform:translateY(-1px)}
+#aiJourney{margin-top:12px}
+@media(max-width:650px){.topbar .v17-ai-access{padding:8px 9px;font-size:11px}}
+@media(prefers-reduced-motion:reduce){.v17-ai-access{transition:none}}
